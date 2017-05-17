@@ -30,3 +30,6 @@ page {
 .error {
   color: #e64240;
 }
+.errorddd {
+  color: #e64240;
+}
