@@ -32,4 +32,21 @@ page {
 }
 .errorddd {
   color: #e64240;
+
+  }
+  .hint,
+.error {
+  display: block;
+  margin: 8px 0;
+  color: #888;
+  font-size: 14px;
+}
+.error {
+  color: #e64240;
+}
+.errorddd {
+  color: #e64240;
+}
+}
+}
 }
